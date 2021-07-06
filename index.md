@@ -10,6 +10,7 @@ Before starting my Ph.D., I completed my undergrad from LUMS in 2017 under the s
 
 - \[May 2021] I will be spending my summer as a research intern at Bell Labs 
 - \[Apr 2021] Our paper "AggNet: Cost-Aware Aggregation Networks for Geo-distributed Streaming Analytics" has been accepted to ACM/IEEE SEC 2021!
+- \[Aug 2020] I wrapped up my work as a research intern at Bell Labs and am excited to share that I will continue to collaborate with them over the coming year!
 <!-- - Our paper "Learning from Optimal: Energy Procurement Strategies for Data Centers" was accepted to ACM e-Energy 2019! I also received a student travel grant to present my work at the conference. -->
 
 
