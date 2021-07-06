@@ -1,3 +1,9 @@
+## About Me
+
+Hi! My name is Sohaib Ahmad. I am a Ph.D. student in the [LIDS](https://groups.cs.umass.edu/ramesh/lids-lab/) lab at the University of Massachusetts, Amherst working under the supervision of [Prof. Ramesh Sitaraman](https://groups.cs.umass.edu/ramesh/). I also collaborate with [Prof. Abhishek Chandra](https://www-users.cs.umn.edu/~chandra/) and [Prof. Hui Guan](https://guanh01.github.io/).
+
+Recently, I have been involved with Bell Labs research under the supervision of [Thomas Woo](https://www.bell-labs.com/about/researcher-profiles/thomaswoo/#gref).
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/sohaibahmad759/sohaib.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
