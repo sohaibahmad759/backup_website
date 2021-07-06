@@ -8,7 +8,7 @@ Recently, I have been involved with Bell Labs research under the supervision of 
 
 - \[May 2021] I will be spending my summer as a research intern at Bell Labs 
 - \[Apr 2021] Our paper "AggNet: Cost-Aware Aggregation Networks for Geo-distributed Streaming Analytics" has been accepted to ACM/IEEE SEC 2021!
-- Our paper "Learning from Optimal: Energy Procurement Strategies for Data Centers" was accepted to ACM e-Energy 2018! I also received a student travel grant to present my work at the conference.
+- Our paper "Learning from Optimal: Energy Procurement Strategies for Data Centers" was accepted to ACM e-Energy 2019! I also received a student travel grant to present my work at the conference.
 
 ## Welcome to GitHub Pages
 
