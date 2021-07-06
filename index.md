@@ -4,6 +4,8 @@ Hi! My name is Sohaib Ahmad. I am a Ph.D. student in the [LIDS](https://groups.c
 
 Recently, I have been involved with Bell Labs research under the supervision of [Thomas Woo](https://www.bell-labs.com/about/researcher-profiles/thomaswoo/#gref).
 
+I completed my undergrad at LUMS under the supervision of [Prof. Ihsan Ayyub Qazi](https://web.lums.edu.pk/~ihsan/) where my research focused on computer networks and measurement.
+
 ## News
 
 - \[May 2021] I will be spending my summer as a research intern at Bell Labs 
