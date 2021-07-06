@@ -1,6 +1,6 @@
 ## About Me
 
-Hi! My name is Sohaib Ahmad. I am a Ph.D. student in the [LIDS](https://groups.cs.umass.edu/ramesh/lids-lab/) lab at the University of Massachusetts, Amherst working under the supervision of [Prof. Ramesh Sitaraman](https://groups.cs.umass.edu/ramesh/). I also collaborate with [Prof. Abhishek Chandra](https://www-users.cs.umn.edu/~chandra/) and [Prof. Hui Guan](https://guanh01.github.io/).
+Hi! My name is Sohaib Ahmad. I am a Ph.D. student in the [LIDS](https://groups.cs.umass.edu/ramesh/lids-lab/) lab at the University of Massachusetts, Amherst working under the supervision of [Prof. Ramesh Sitaraman](https://groups.cs.umass.edu/ramesh/). My research lies at the intersection of systems and machine learning. I use machine learning to improve the performance of systems, and also use my systems knowledge to improve the performance of machine learning algorithms. I also collaborate with [Prof. Abhishek Chandra](https://www-users.cs.umn.edu/~chandra/) and [Prof. Hui Guan](https://guanh01.github.io/).
 
 Recently, I have been involved with Bell Labs research under the supervision of [Thomas Woo](https://www.bell-labs.com/about/researcher-profiles/thomaswoo/#gref).
 
@@ -8,6 +8,7 @@ Recently, I have been involved with Bell Labs research under the supervision of 
 
 - \[May 2021] I will be spending my summer as a research intern at Bell Labs 
 - \[Apr 2021] Our paper "AggNet: Cost-Aware Aggregation Networks for Geo-distributed Streaming Analytics" has been accepted to ACM/IEEE SEC 2021!
+- Our paper "Learning from Optimal: Energy Procurement Strategies for Data Centers" was accepted to ACM e-Energy 2018! I also received a student travel grant to present my work at the conference.
 
 ## Welcome to GitHub Pages
 
