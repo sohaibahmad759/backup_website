@@ -15,12 +15,14 @@ Before starting my Ph.D., I completed my undergrad from LUMS in 2017 under the s
 
 ## Publications
 
-### AggNet: Cost-Aware Aggregation Networks for Geo-distributed Streaming Analytics
+##### AggNet: Cost-Aware Aggregation Networks for Geo-distributed Streaming Analytics
 Dhruv Kumar, **Sohaib Ahmad**, Abhishek Chandra, Ramesh K. Sitaraman
+
 in [ACM/IEEE SEC 2021](http://acm-ieee-sec.org/2021/) (acceptance rate: 23.7%)
 
-### Learning from Optimal: Energy Procurement Strategies for Data Centers \[[Paper](https://groups.cs.umass.edu/ramesh/wp-content/uploads/sites/3/2019/12/Learning-from-Optimal-Energy-Procurement-Strategies-for-Data-Centers.pdf)]
+##### Learning from Optimal: Energy Procurement Strategies for Data Centers \[[Paper](https://groups.cs.umass.edu/ramesh/wp-content/uploads/sites/3/2019/12/Learning-from-Optimal-Energy-Procurement-Strategies-for-Data-Centers.pdf)]
 **Sohaib Ahmad**, Arielle Rosenthal, Mohammad H. Hajiesmaili, Ramesh K. Sitaraman
+
 in [ACM e-Energy 2019](https://energy.acm.org/conferences/eenergy/2019/) 
 
 - ACM SIGCOMM 2018 (Awarded best paper of the year award in SIGCOMM CCR)
