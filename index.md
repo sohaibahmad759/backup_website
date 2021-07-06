@@ -28,13 +28,13 @@ in [ACM e-Energy 2019](https://energy.acm.org/conferences/eenergy/2019/)
 
 ---
 
-#### Inside the walled garden: Deconstructing facebook's free basics program
+#### Inside the walled garden: Deconstructing facebook's free basics program \[[Paper](https://pubs.cs.uct.ac.za/id/eprint/1255/1/sigcomm-ccr-paper115.pdf)]
 Rijurekha Sen, **Sohaib Ahmad**, Amreesh Phokeer, Zaid Ahmed Farooq, Ihsan Ayyub Qazi, David Choffnes, Krishna P Gummadi  
 in [ACM SIGCOMM 2018](https://conferences.sigcomm.org/sigcomm/2018/)
 
 ---
 
-#### A view from the other side: Understanding mobile phone characteristics in the developing world
+#### A view from the other side: Understanding mobile phone characteristics in the developing world \[[Paper](http://static.cs.brown.edu/people/tab/papers/IMC16.pdf)]
 **Sohaib Ahmad**, Abdul Lateef Haamid, Zafar Ayyub Qazi, Zhenyu Zhou, Theophilus Benson, Ihsan Ayyub Qazi  
 in [ACM IMC 2016](http://conferences2.sigcomm.org/imc/2016/)
 
