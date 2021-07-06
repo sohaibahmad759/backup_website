@@ -38,10 +38,11 @@ in [ACM SIGCOMM 2018](https://conferences.sigcomm.org/sigcomm/2018/)
 **Sohaib Ahmad**, Abdul Lateef Haamid, Zafar Ayyub Qazi, Zhenyu Zhou, Theophilus Benson, Ihsan Ayyub Qazi  
 in [ACM IMC 2016](http://conferences2.sigcomm.org/imc/2016/) (acceptance rate: 25%)
 
+<!-- 
 ---
 
 More
-- ACM SIGMETRICS (poster)
+- ACM SIGMETRICS (poster) -->
 
 ## Awards
 
