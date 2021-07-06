@@ -1,10 +1,10 @@
 ## About Me
 
-Hi! My name is Sohaib Ahmad. I am a Ph.D. student in the [LIDS](https://groups.cs.umass.edu/ramesh/lids-lab/) lab at the University of Massachusetts, Amherst working under the supervision of [Prof. Ramesh Sitaraman](https://groups.cs.umass.edu/ramesh/). My research lies at the intersection of systems and machine learning. I use machine learning to improve the performance of systems, and also use my systems knowledge to improve the performance of machine learning algorithms. I also collaborate with [Prof. Abhishek Chandra](https://www-users.cs.umn.edu/~chandra/) and [Prof. Hui Guan](https://guanh01.github.io/).
+Hi! My name is Sohaib Ahmad. I am a Computer Science Ph.D. student at the University of Massachusetts, Amherst working under the supervision of [Prof. Ramesh Sitaraman](https://groups.cs.umass.edu/ramesh/). My research lies at the intersection of systems and machine learning. I use machine learning to improve the performance of systems, and also use my systems knowledge to improve the performance of machine learning algorithms. I also collaborate with [Prof. Abhishek Chandra](https://www-users.cs.umn.edu/~chandra/) and [Prof. Hui Guan](https://guanh01.github.io/).
 
 Recently, I have been involved with Bell Labs research under the supervision of [Thomas Woo](https://www.bell-labs.com/about/researcher-profiles/thomaswoo/#gref).
 
-Previously, I completed my undergrad from LUMS in 2017 under the supervision of [Prof. Ihsan Ayyub Qazi](https://web.lums.edu.pk/~ihsan/) where my research focused on computer networks and measurement.
+Before starting my Ph.D., I completed my undergrad from LUMS in 2017 under the supervision of [Prof. Ihsan Ayyub Qazi](https://web.lums.edu.pk/~ihsan/) where my research focused on computer networks and measurement.
 
 ## News
 
