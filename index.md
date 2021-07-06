@@ -4,6 +4,11 @@ Hi! My name is Sohaib Ahmad. I am a Ph.D. student in the [LIDS](https://groups.c
 
 Recently, I have been involved with Bell Labs research under the supervision of [Thomas Woo](https://www.bell-labs.com/about/researcher-profiles/thomaswoo/#gref).
 
+## News
+
+- \[May 2021] I will be spending my summer as a research intern at Bell Labs 
+- \[Apr 2021] Our paper "AggNet: Cost-Aware Aggregation Networks for Geo-distributed Streaming Analytics" has been accepted to ACM/IEEE SEC 2021!
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/sohaibahmad759/sohaib.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
