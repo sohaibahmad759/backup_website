@@ -28,8 +28,19 @@ in [ACM e-Energy 2019](https://energy.acm.org/conferences/eenergy/2019/)
 
 ---
 
-- ACM SIGCOMM 2018 (Awarded best paper of the year award in SIGCOMM CCR)
-- ACM IMC 2016
+#### Inside the walled garden: Deconstructing facebook's free basics program
+Rijurekha Sen, **Sohaib Ahmad**, Amreesh Phokeer, Zaid Ahmed Farooq, Ihsan Ayyub Qazi, David Choffnes, Krishna P Gummadi  
+in [ACM SIGCOMM 2018](https://conferences.sigcomm.org/sigcomm/2018/)
+
+---
+
+#### A view from the other side: Understanding mobile phone characteristics in the developing world
+**Sohaib Ahmad**, Abdul Lateef Haamid, Zafar Ayyub Qazi, Zhenyu Zhou, Theophilus Benson, Ihsan Ayyub Qazi  
+in [ACM IMC 2016](http://conferences2.sigcomm.org/imc/2016/)
+
+---
+
+More
 - ACM SIGMETRICS (poster)
 
 ## Awards
