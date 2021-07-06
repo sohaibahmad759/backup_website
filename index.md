@@ -12,6 +12,24 @@ Previously, I completed my undergrad from LUMS in 2017 under the supervision of 
 - \[Apr 2021] Our paper "AggNet: Cost-Aware Aggregation Networks for Geo-distributed Streaming Analytics" has been accepted to ACM/IEEE SEC 2021!
 - Our paper "Learning from Optimal: Energy Procurement Strategies for Data Centers" was accepted to ACM e-Energy 2019! I also received a student travel grant to present my work at the conference.
 
+
+## Publications
+
+- ACM/IEEE SEC 2021
+- ACM e-Energy 2019
+- ACM SIGCOMM 2018 (Awarded best paper of the year award in SIGCOMM CCR)
+- ACM IMC 2016
+- ACM SIGMETRICS (poster)
+
+## Awards
+
+- Best paper of the year award in ACM SIGCOMM CCR 2018
+- Awarded the Krithi Ramamritham scholarship at UMass Amherst for outstanding incoming student in sytems research
+- Received the Summer Research Program award at LUMS (2016)
+- Student travel grants at ACM e-Energy 2019, ACM IMC 2016
+- Dean's Honor List at LUMS (2013-17)
+
+<!-- 
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/sohaibahmad759/sohaib.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -48,4 +66,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out. -->
