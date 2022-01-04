@@ -9,7 +9,7 @@ Before starting my Ph.D., I completed my undergrad from LUMS in 2017 under the s
 ## News
 
 - \[Dec 2021] I presented my paper, AggNet, at the ACM/IEEE Symposium on Edge Computing! You can find the slides [here](https://github.com/sohaibahmad759/sohaibahmad759.github.io/blob/gh-pages/sec_presentation.pptx). I also presented a [poster version](https://github.com/sohaibahmad759/sohaibahmad759.github.io/blob/gh-pages/sec_poster.pdf) of the paper at the conference.
-- \[Dec 2021] I attended the ACM/IEEE Symposium of Edge Computing in San Jose, CA and presented an overview of my dissertation work. You can find it [here](https://github.com/sohaibahmad759/sohaibahmad759.github.io/blob/gh-pages/sec_phd_forum.pptx)!.
+- \[Dec 2021] I attended the ACM/IEEE Symposium of Edge Computing in San Jose, CA and presented an overview of my dissertation work. You can find it [here](https://github.com/sohaibahmad759/sohaibahmad759.github.io/blob/gh-pages/sec_phd_forum.pptx)!
 - \[Sep 2021] Super excited to share that I will be spending the summer of 2022 as a PhD intern at Facebook! I will be joining their Serverless Computing group in Seattle, and I cannot wait for all the exciting challenges I will get to tackle.
 - \[Aug 2021] I wrapped up my work as a research intern at Bell Labs and am excited to share that I will continue to collaborate with them over the coming year!
 <!-- - \[May 2021] I will be spending my summer as a research intern at Bell Labs  -->
