@@ -23,24 +23,28 @@ Before starting my Ph.D., I completed my undergrad from LUMS in 2017 under the s
 #### AggNet: Cost-Aware Aggregation Networks for Geo-distributed Streaming Analytics \[[Paper](https://groups.cs.umass.edu/ramesh/wp-content/uploads/sites/3/2021/06/sec21-final80.pdf)]
 Dhruv Kumar, **Sohaib Ahmad**, Abhishek Chandra, Ramesh K. Sitaraman  
 in [ACM/IEEE SEC 2021](http://acm-ieee-sec.org/2021/) (acceptance rate: 23.7%)
+San Jose, California
 
 ---
 
 #### Learning from Optimal: Energy Procurement Strategies for Data Centers \[[Paper](https://groups.cs.umass.edu/ramesh/wp-content/uploads/sites/3/2019/12/Learning-from-Optimal-Energy-Procurement-Strategies-for-Data-Centers.pdf)]
 **Sohaib Ahmad**, Arielle Rosenthal, Mohammad H. Hajiesmaili, Ramesh K. Sitaraman  
-in [ACM e-Energy 2019](https://energy.acm.org/conferences/eenergy/2019/) 
+in [ACM e-Energy 2019](https://energy.acm.org/conferences/eenergy/2019/)
+Phoenix, Arizona
 
 ---
 
 #### Inside the walled garden: Deconstructing facebook's free basics program \[[Paper](https://pubs.cs.uct.ac.za/id/eprint/1255/1/sigcomm-ccr-paper115.pdf)]
 Rijurekha Sen, **Sohaib Ahmad**, Amreesh Phokeer, Zaid Ahmed Farooq, Ihsan Ayyub Qazi, David Choffnes, Krishna P Gummadi  
 in [ACM SIGCOMM 2018](https://conferences.sigcomm.org/sigcomm/2018/)
+Budapest, Hungary
 
 ---
 
 #### A view from the other side: Understanding mobile phone characteristics in the developing world \[[Paper](http://static.cs.brown.edu/people/tab/papers/IMC16.pdf)]
 **Sohaib Ahmad**, Abdul Lateef Haamid, Zafar Ayyub Qazi, Zhenyu Zhou, Theophilus Benson, Ihsan Ayyub Qazi  
 in [ACM IMC 2016](http://conferences2.sigcomm.org/imc/2016/) (acceptance rate: 25%)
+Santa Monica, California
 
 <!-- 
 ---
