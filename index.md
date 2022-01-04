@@ -8,9 +8,13 @@ Before starting my Ph.D., I completed my undergrad from LUMS in 2017 under the s
 
 ## News
 
-- \[May 2021] I will be spending my summer as a research intern at Bell Labs 
+- \[Dec 2021] I presented my paper, AggNet, at the ACM/IEEE Symposium on Edge Computing! You can find the slides [here](). I also presented a [poster version]() of the paper at the conference.
+- \[Dec 2021] I attended the ACM/IEEE Symposium of Edge Computing and presented an overview of my dissertation work. You can find it [here]()!.
+- \[Sep 2021] Super excited to share that I will be spending the summer of 2022 as a PhD intern at Facebook! I will be joining their Serverless Computing group in Seattle, and I cannot wait for all the exciting challenges I will get to tackle.
+- \[Aug 2021] I wrapped up my work as a research intern at Bell Labs and am excited to share that I will continue to collaborate with them over the coming year!
+<!-- - \[May 2021] I will be spending my summer as a research intern at Bell Labs  -->
 - \[Apr 2021] Our paper "AggNet: Cost-Aware Aggregation Networks for Geo-distributed Streaming Analytics" has been accepted to ACM/IEEE SEC 2021!
-- \[Aug 2020] I wrapped up my work as a research intern at Bell Labs and am excited to share that I will continue to collaborate with them over the coming year!
+<!-- - \[Aug 2020] I wrapped up my work as a research intern at Bell Labs and am excited to share that I will continue to collaborate with them over the coming year! -->
 <!-- - Our paper "Learning from Optimal: Energy Procurement Strategies for Data Centers" was accepted to ACM e-Energy 2019! I also received a student travel grant to present my work at the conference. -->
 
 
