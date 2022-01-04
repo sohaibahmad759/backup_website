@@ -50,7 +50,7 @@ More
 
 ## Awards
 
-- Best paper of the year award in ACM SIGCOMM CCR 2018
+- **Best paper of the year award** in ACM SIGCOMM CCR 2018
 - Awarded the Krithi Ramamritham scholarship at UMass Amherst for outstanding incoming student in sytems research
 - Received the Summer Research Program award at LUMS (2016)
 - Student travel grants at ACM e-Energy 2019, ACM IMC 2016
