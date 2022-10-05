@@ -1,13 +1,16 @@
 ## About Me
 
-Hi! My name is Sohaib Ahmad. I am a Computer Science Ph.D. student at the University of Massachusetts, Amherst working under the supervision of [Prof. Ramesh Sitaraman](https://groups.cs.umass.edu/ramesh/). My research lies at the intersection of systems and machine learning: I use machine learning to improve the performance of computer systems, and use my systems knowledge to improve the performance of machine learning algorithms. I also collaborate with [Prof. Abhishek Chandra](https://www-users.cs.umn.edu/~chandra/) and [Prof. Hui Guan](https://guanh01.github.io/).
+Hi! My name is Sohaib Ahmad. I am a Computer Science Ph.D. student at the University of Massachusetts, Amherst working under the supervision of [Prof. Ramesh Sitaraman](https://groups.cs.umass.edu/ramesh/). My research lies at the intersection of systems and machine learning: I use machine learning to improve the performance of computer systems, and use my systems knowledge to improve the performance of machine learning algorithms. I build theoretical models to represent distributed data processing systems, and use the models to improve the performance and efficiency of those systems.
 
-Recently, I have been involved as a student researcher at Bell Labs research under the supervision of [Thomas Woo](https://www.bell-labs.com/about/researcher-profiles/thomaswoo/#gref).
+I also collaborate with [Prof. Hui Guan](https://guanh01.github.io/) and  [Prof. Abhishek Chandra](https://www-users.cs.umn.edu/~chandra/).
+
+I recently wrapped up an internship at Meta (formerly Facebook) with their Serverless Computing team. Previously, I have also been involved as a student researcher at Bell Labs research under the supervision of [Thomas Woo](https://www.bell-labs.com/about/researcher-profiles/thomaswoo/#gref).
 
 Before starting my Ph.D., I completed my undergrad from LUMS in 2017 under the supervision of [Prof. Ihsan Ayyub Qazi](https://web.lums.edu.pk/~ihsan/) where my research focused on computer networks and measurement.
 
 ## News
 
+- \[Aug 2022] I wrappped up my internship at Meta (formerly Facebook) with their Serverless Computing team. Over there, I worked on using elastic compute to process asynchronous computing workloads with varying levels of SLA delay requirements.
 - \[Dec 2021] I presented my paper, AggNet, at the ACM/IEEE Symposium on Edge Computing! You can find the slides [here](https://github.com/sohaibahmad759/sohaibahmad759.github.io/blob/gh-pages/sec_presentation.pptx). I also presented a [poster version](https://github.com/sohaibahmad759/sohaibahmad759.github.io/blob/gh-pages/sec_poster.pdf) of the paper at the conference.
 - \[Dec 2021] I attended the ACM/IEEE Symposium of Edge Computing in San Jose, CA and presented an overview of my dissertation work. You can find it [here](https://github.com/sohaibahmad759/sohaibahmad759.github.io/blob/gh-pages/sec_phd_forum.pptx)!
 - \[Sep 2021] Super excited to share that I will be spending the summer of 2022 as a PhD intern at Facebook! I will be joining their Serverless Computing group in Seattle, and I cannot wait for all the exciting challenges I will get to tackle.
