@@ -39,7 +39,7 @@ Phoenix, Arizona
 
 #### Inside the walled garden: Deconstructing facebook's free basics program \[[Paper](https://pubs.cs.uct.ac.za/id/eprint/1255/1/sigcomm-ccr-paper115.pdf)]
 Rijurekha Sen, **Sohaib Ahmad**, Amreesh Phokeer, Zaid Ahmed Farooq, Ihsan Ayyub Qazi, David Choffnes, Krishna P Gummadi  
-in [ACM SIGCOMM 2018](https://conferences.sigcomm.org/sigcomm/2018/) (acceptance rate: ~12%)
+in [ACM SIGCOMM 2018](https://conferences.sigcomm.org/sigcomm/2018/) (acceptance rate: ~12%)   
 Budapest, Hungary
 
 ---
