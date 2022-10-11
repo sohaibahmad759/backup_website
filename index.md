@@ -4,6 +4,8 @@ Hi! My name is Sohaib Ahmad. I am a Computer Science Ph.D. student at the Univer
 
 I also collaborate with [Prof. Hui Guan](https://guanh01.github.io/) and  [Prof. Abhishek Chandra](https://www-users.cs.umn.edu/~chandra/).
 
+You can find my resume [here](https://drive.google.com/file/d/1m_dPMSew2gCv2PwIa7aJ1I368gsuPkVV/view?usp=sharing).
+
 I recently wrapped up an internship at Meta (formerly Facebook) with their Serverless Computing team. Previously, I have also been involved as a student researcher at Bell Labs research under the supervision of [Thomas Woo](https://www.bell-labs.com/about/researcher-profiles/thomaswoo/#gref).
 
 Before starting my Ph.D., I completed my undergrad from LUMS in 2017 under the supervision of [Prof. Ihsan Ayyub Qazi](https://web.lums.edu.pk/~ihsan/) where my research focused on computer networks and measurement.
