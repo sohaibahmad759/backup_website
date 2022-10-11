@@ -5,6 +5,11 @@ logo: linkedin.png
 
 email: sohaib@cs.umass.edu
 
+minima:
+  social_links:
+    linkedin: sahmad
+    google_scholar_id: wlTeoZUAAAAJ
+
 linkedin_username: sahmad
 github_username:  sohaibahmad759
 
