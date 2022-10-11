@@ -67,7 +67,7 @@ More
 
 ## Service
 
-- Shadow Program Committee Member in EuroSys 2022
+- Shadow Program Committee Member for EuroSys 2022
 - Panelist for CS Research Night at UMass to introduce undergraduates to research 
 
 <!-- 
