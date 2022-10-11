@@ -65,6 +65,11 @@ More
 - Student travel grants at ACM e-Energy 2019, ACM IMC 2016
 - Dean's Honor List at LUMS (2013-17)
 
+## Service
+
+- Shadow Program Committee Member in EuroSys 2022
+- Panelist for CS Research Night at UMass to introduce undergraduates to research 
+
 <!-- 
 ## Welcome to GitHub Pages
 
