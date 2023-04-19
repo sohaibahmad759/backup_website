@@ -25,6 +25,13 @@ Before starting my Ph.D., I completed my undergrad from LUMS in 2017 under the s
 
 ## Publications
 
+#### AggFirstJoin: Optimizing Geo-Distributed Joins using Aggregation-Based Transformations 
+Dhruv Kumar, **Sohaib Ahmad**, Abhishek Chandra, Ramesh K. Sitaraman  
+in [IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGRID) 2023
+](https://ccgrid2023.iisc.ac.in/)  
+
+---
+
 #### AggNet: Cost-Aware Aggregation Networks for Geo-distributed Streaming Analytics \[[Paper](https://groups.cs.umass.edu/ramesh/wp-content/uploads/sites/3/2021/06/sec21-final80.pdf)]
 Dhruv Kumar, **Sohaib Ahmad**, Abhishek Chandra, Ramesh K. Sitaraman  
 in [ACM/IEEE SEC 2021](http://acm-ieee-sec.org/2021/) (acceptance rate: 23.7%)  
