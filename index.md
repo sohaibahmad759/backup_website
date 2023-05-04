@@ -30,6 +30,7 @@ Before starting my Ph.D., I completed my undergrad from LUMS in 2017 under the s
 Dhruv Kumar, **Sohaib Ahmad**, Abhishek Chandra, Ramesh K. Sitaraman  
 in [IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGRID) 2023
 ](https://ccgrid2023.iisc.ac.in/)
+
 Won the **Best Paper Award**!
 
 ---
