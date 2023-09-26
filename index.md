@@ -1,8 +1,8 @@
 ## About Me
 
-Hi! My name is Sohaib Ahmad. I am a Computer Science Ph.D. student at the University of Massachusetts, Amherst working under the supervision of [Prof. Ramesh Sitaraman](https://groups.cs.umass.edu/ramesh/). My research lies at the intersection of systems and machine learning: I use machine learning to improve the performance of computer systems, and use my systems knowledge to improve the performance of machine learning algorithms. I build theoretical models to represent distributed data processing systems, and use the models to improve the performance and efficiency of those systems.
+Hi! My name is Sohaib Ahmad. I am a Computer Science Ph.D. student at the University of Massachusetts, Amherst working under the supervision of [Prof. Ramesh Sitaraman](https://groups.cs.umass.edu/ramesh/) and [Prof. Hui Guan](https://guanh01.github.io/). My research lies at the intersection of systems and machine learning: I use machine learning to improve the performance of computer systems, and use my systems knowledge to improve the performance of machine learning algorithms. I build theoretical models to represent distributed data processing systems, and use the models to improve the performance and efficiency of those systems.
 
-I also collaborate with [Prof. Hui Guan](https://guanh01.github.io/) and  [Prof. Abhishek Chandra](https://www-users.cs.umn.edu/~chandra/).
+I also collaborate with [Prof. Abhishek Chandra](https://www-users.cs.umn.edu/~chandra/).
 
 You can find my resume [here](https://drive.google.com/file/d/1m_dPMSew2gCv2PwIa7aJ1I368gsuPkVV/view?usp=sharing).
 
