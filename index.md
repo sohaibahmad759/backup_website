@@ -27,6 +27,14 @@ Before starting my Ph.D., I completed my undergrad from LUMS in 2017 under the s
 
 ## Publications
 
+#### Proteus: A High-Throughput Inference-Serving System with Accuracy Scaling \[[Paper](https://groups.cs.umass.edu/ramesh/wp-content/uploads/sites/3/2023/09/ljWiUS-asplos24spring-final29.pdf)] \[[Code](https://github.com/UMass-LIDS/Proteus)]
+**Sohaib Ahmad**, Hui Guan, Brian D. Friedman, Thomas Williams, Ramesh K. Sitaraman, Thomas Woo  
+[In 28th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Volume 1 (ASPLOS ’24)
+]([https://ccgrid2023.iisc.ac.in/](https://www.asplos-conference.org/asplos2024/)) (acceptance rate: 16.2%)
+La Jolla, California
+
+---
+
 #### AggFirstJoin: Optimizing Geo-Distributed Joins using Aggregation-Based Transformations 
 Dhruv Kumar, **Sohaib Ahmad**, Abhishek Chandra, Ramesh K. Sitaraman  
 in [IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGRID) 2023
