@@ -38,7 +38,7 @@ La Jolla, California
 #### AggFirstJoin: Optimizing Geo-Distributed Joins using Aggregation-Based Transformations 
 Dhruv Kumar, **Sohaib Ahmad**, Abhishek Chandra, Ramesh K. Sitaraman  
 in [IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGRID) 2023
-](https://ccgrid2023.iisc.ac.in/)
+](https://ccgrid2023.iisc.ac.in/) (acceptance rate: 21%)  
 
 Won the **Best Paper Award**!
 
@@ -60,7 +60,7 @@ Phoenix, Arizona
 
 #### Inside the walled garden: Deconstructing facebook's free basics program \[[Paper](https://pubs.cs.uct.ac.za/id/eprint/1255/1/sigcomm-ccr-paper115.pdf)]
 Rijurekha Sen, **Sohaib Ahmad**, Amreesh Phokeer, Zaid Ahmed Farooq, Ihsan Ayyub Qazi, David Choffnes, Krishna P Gummadi  
-in [ACM SIGCOMM 2018](https://conferences.sigcomm.org/sigcomm/2018/) (acceptance rate: ~12%)   
+in [ACM SIGCOMM 2018](https://conferences.sigcomm.org/sigcomm/2018/) (acceptance rate: 18.18%)   
 Budapest, Hungary
 
 ---
